@@ -1,1 +1,1 @@
-# blog-spot
+# Blog-Mangement-System
