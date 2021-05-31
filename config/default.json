@@ -1,0 +1,4 @@
+{
+	"mongoURL": "mongodb+srv://opensource:opensource@cluster0.xkwxq.mongodb.net/BlogspotDB?retryWrites=true&w=majority",
+	"jwtSecret": "yahihaisecret"
+}
